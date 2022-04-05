@@ -44,7 +44,7 @@ Get unlimited instagram followers
 ---
 
 <p align="center">
-  Follow Me On instagram
+  Follow Me On instagram @its.prince.roy
 </p>
 <p align="center">
   <a href="https://www.instagram.com/its.prince.roy/">
