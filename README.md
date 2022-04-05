@@ -11,7 +11,7 @@ Get unlimited instagram followers
 
 ## Termux Script
  
- Best Tool To Increase Your Instagram Followers.
+* Best Tool To Increase Your Instagram Followers.
 
 ## Requirements
 1. openssl
