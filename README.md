@@ -18,6 +18,8 @@ Get unlimited instagram followers
 2. curl
 
 ## How to use
+1. Install termux 
+2. Follow commands
 
 `$ pkg up -y`
 
@@ -26,6 +28,8 @@ Get unlimited instagram followers
 `$ pkg install curl`
 
 `$ pkg install git`
+ 
+* Clone
 
 `$ git clone https://github.com/evilgodtermux/insfollowers`
 
@@ -34,6 +38,8 @@ Get unlimited instagram followers
 `$ chmod +x insfollowers.sh`
 
 `$ termux-wake-lock`
+
+* Allow if ask for permission
 
 `$ bash insfollowers.sh`
 
