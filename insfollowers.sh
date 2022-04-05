@@ -2,6 +2,7 @@
 # insfollow v2.0
 # recoded by:evilgodtermux 
 # github.com/evilgodtermux/insfollowers
+# thanks to termuxprofessor
 
 clear
 string4=$(openssl rand -hex 32 | cut -c 1-4)
