@@ -35,7 +35,16 @@ Get unlimited instagram followers
 
 `$ termux-wake-lock`
 
+---
+
 `$ bash insfollowers.sh`
+
+For any help
+
+Pm [@Rowdyy_here](http://t.me/@Rowdyy_here)
+
+---
+
 
 ## CREDITS
 
