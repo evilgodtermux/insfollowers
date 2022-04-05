@@ -9,9 +9,9 @@ Get unlimited instagram followers
   <img src="https://te.legra.ph/file/a08ea9efb8f0daab4c55d.jpg" width="470" height="250">
 </p>
 
-##Termux Script
+## Termux Script
  
- Best Tool To Increase Instagram Followers.
+ Best Tool To Increase Your Instagram Followers.
 
 ## Requirements
 1. openssl
@@ -41,6 +41,7 @@ Get unlimited instagram followers
 
  [termuxprofessor](http://github.com/termuxprofessor)
 
+---
 
 <p align="center">
   Follow Me On instagram
