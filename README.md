@@ -2,16 +2,17 @@
 Get unlimited instagram followers
 
 <h align="center">
-<b> 【i】【n】【s】【t】【a】【g】【r】【a】【m】【f】【o】【l】【l】【o】【w】【e】【r】【s】</b>
+<b>|几丂ㄒ卂ᘜ尺卂爪乃 千ㄖㄥㄥㄖ山乇尺丂</b>
 </h>
 
 <p align="center">
   <img src="https://te.legra.ph/file/a08ea9efb8f0daab4c55d.jpg" width="470" height="250">
 </p>
 
-##Termux Script 
-Best Tool To Increase Instagram Followers.
----
+##Termux Script
+ 
+ Best Tool To Increase Instagram Followers.
+
 ## Requirements
 1. openssl
 2. curl
@@ -37,8 +38,9 @@ Best Tool To Increase Instagram Followers.
 `$ bash insfollowers.sh`
 
 ## CREDITS
-[termuxprofessor](http://github.com/termuxprofessor)
----
+
+ [termuxprofessor](http://github.com/termuxprofessor)
+
 
 <p align="center">
   Follow Me On instagram
